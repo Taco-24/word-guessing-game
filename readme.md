@@ -2,7 +2,7 @@ This is a command-line based word guessing game written in Python. The game rand
 
 Getting Started
 Prerequisites
-To run this program, you will need Python 3.x or higher installed on your machine. If you don't have it installed, you can download it from Python's official website.
+To run this program, you will need Python 3.9 or higher installed on your machine. If you don't have it installed, you can download it from Python's official website.
 
 Installation
 Clone this repository using the following command in the terminal:
@@ -19,5 +19,4 @@ The game will start running and you can start guessing the word by entering indi
 Contributing
 Contributions are always welcome! If you want to contribute, please open an issue first to discuss the proposed changes or send a pull request.
 
-License
-This project is licensed under the MIT License.
+
