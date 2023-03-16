@@ -18,5 +18,3 @@ python word_game.py
 The game will start running and you can start guessing the word by entering individual characters.
 Contributing
 Contributions are always welcome! If you want to contribute, please open an issue first to discuss the proposed changes or send a pull request.
-
-
